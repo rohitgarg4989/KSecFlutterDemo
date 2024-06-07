@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import 'dart:ui';
-import 'package:tradepro/screens/orders_page.dart';
-import 'package:tradepro/screens/profile_page.dart';
-import 'package:tradepro/screens/portfolio_page.dart';
-import 'package:tradepro/screens/tools_page.dart';
-import 'package:tradepro/screens/watchlist_page.dart';
-import 'package:tradepro/splash_screeen.dart';
+import 'screens/orders_page.dart';
+import 'screens/profile_page.dart';
+import 'screens/portfolio_page.dart';
+import 'screens/tools_page.dart';
+import 'screens/watchlist_page.dart';
+import 'splash_screeen.dart';
 
 void main() {
   runApp(MyApp());
